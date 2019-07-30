@@ -1,2 +1,2 @@
-# Udemy-Complete-Data-Science-Bootcamp
+# Machine Learning - Udemy-Complete-Data-Science-Bootcamp [![](https://img.shields.io/github/license/sourcerer-io/hall-of-fame.svg?colorB=ff0000)](https://github.com/akshaybahadur21/MachineLearning-CourseEra/blob/master/LICENSE.txt)  [![](https://img.shields.io/badge/Rahul-Kumar-Sinha-brightgreen.svg?colorB=ff0000)](https://rahulkrsinha.github.io/)
 Notebooks and Codes related to Udemy The Data Science Course 2019: Complete Data Science Bootcamp course.
