@@ -2,3 +2,6 @@
 
 This project has series of notebooks and codes, that I have completed and implemented while attending the course (Udemy The Data Science Course 2019: Complete Data Science Bootcamp).
 
+## Code Requirements
+The example notebooks and codes are in python 3.6 with virtual environment along with packages as listed in requirement.txt
+
